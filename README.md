@@ -92,7 +92,7 @@ Patriots,Bills,21,14,1,1
 ## 👤 Author
 **Jonathon Bayliff**  
 U.S. Air Force Veteran • B.S. Computer Science (2026) • Python, Data Analytics, and Financial Modeling  
-🔗 [Notion Portfolio](https://www.notion.so/) (add your link)
+🔗 Notion: http://bit.ly/45yVcu5
 
 ---
 
